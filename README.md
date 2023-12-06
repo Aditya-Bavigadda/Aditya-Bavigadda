@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Aditya-Bavigadda
-- 👀 I’m interested in programming and are experienced in several languages including: C#(game development), vb.net and SQL 
-- 🌱 I’m currently learning C++ and vb.net
+- 👋 Hi, I’m @Aditya-Bavigadda 
+- 🌱 I’m currently learning C
 - 📫 How to reach me: via email, adityabavigadda@gmail.com
 
 <!---
